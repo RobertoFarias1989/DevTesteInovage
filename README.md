@@ -19,6 +19,8 @@ Para executar o projeto ,localmente, será necessário instalar o SQL Server e i
 
 - Padrão Repository
 
+- AutoMapper
+
 - Validação de APIs com FluentValidation
  
 - NET 6
